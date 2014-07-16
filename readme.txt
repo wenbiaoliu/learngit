@@ -1,3 +1,3 @@
 Git is a distributed version control system, bill.
 Git is free software.
-bill
+Git has a mutable index called stage.
